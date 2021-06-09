@@ -1,2 +1,2 @@
-# cpp-server
-A Http File Server Based On Cpp
+# c-server
+A Http File Server Based On C
